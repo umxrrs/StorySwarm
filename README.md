@@ -76,7 +76,7 @@ go test ./...
 
 ---
 
-Contributions are welcome! Please submit a pull request or open an issue on (GitHub.)[https://github.com/umxrrs/StorySwarm]
+Contributions are welcome! Please submit a pull request or open an issue on [GitHub.](https://github.com/umxrrs/StorySwarm)
 
 ---
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 # Author
-- Created by (umxrrs)[https://github.com/umxrrs]/umar
+- Created by [umxrrs/umar](https://github.com/umxrrs)
