@@ -38,8 +38,8 @@
     {
     "token": "YOUR_DISCORD_BOT_TOKEN",
     "web_port": "8080"
-}
-    
+    }
+    ```
 
 ---
 
