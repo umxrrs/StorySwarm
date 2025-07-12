@@ -1,4 +1,4 @@
-module github.com/StorySwarm
+module github.com/umxrrs/StorySwarm
 
 go 1.20
 
